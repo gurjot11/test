@@ -5,6 +5,9 @@ use Symfony\Component\Config\Loader\LoaderInterface;
 
 $a = "7852";
 $a = "1235";
+
+$a = "sdf";
+$a = "f";
 echo "$a";
 class AppKernel extends Kernel
 {
