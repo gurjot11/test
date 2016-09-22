@@ -3,6 +3,8 @@
 use Symfony\Component\HttpKernel\Kernel;
 use Symfony\Component\Config\Loader\LoaderInterface;
 
+$a = "79";
+echo "$a";
 class AppKernel extends Kernel
 {
     public function registerBundles()
